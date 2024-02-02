@@ -17,6 +17,10 @@ namespace ConsoleJenkins
         {
             return x * y;
         }
+        public float Division(float x, float y)
+        {
+            return x / y;
+        }
 
     }
 }
