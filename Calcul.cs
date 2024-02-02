@@ -13,5 +13,10 @@ namespace ConsoleJenkins
             return x + y;
         }
 
+        public float Multiplication(float x, float y)
+        {
+            return x * y;
+        }
+
     }
 }
